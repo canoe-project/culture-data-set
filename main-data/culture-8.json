@@ -1,0 +1,157 @@
+{
+    "response": {
+        "header": {
+            "resultCode": 0,
+            "resultMsg": "OK"
+        },
+        "body": {
+            "items": {
+                "item": [
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000992-00000",
+                        "title": "제라드 앤서니 크리직과 예천시민들 사진",
+                        "description": "1977~1980년에 제라드 앤서니 크리직(Gerard Anthony Krzic)이 평화봉사단으로 내한 당시, 예천 시민들과 정자 앞에서 같이 찍은 모습이 담긴 디지털 파일. 제라드 앤서니 크리직은 1977~1980년 평화봉사단 41기 소속 단원으로 경북 예천, 대구에서 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0313155633797/200/fok000992-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000993-00000",
+                        "title": "제라드 앤서니 크리직의 중학교 영어수업 사진",
+                        "description": "1977~1980년에 제라드 앤서니 크리직(Gerard Anthony Krzic)이 평화봉사단으로 내한 당시, 중학교에서 한국인 선생님과 영어 수업을 하는 모습이 담긴 디지털 파일. 총 3점. (3-1)은 한국인 선생님과 이야기 나누는 모습이 담김. (3-2,3)은 수업을 마치고 학생과 찍은 모습이 담김. 제라드 앤서니 크리직은 1977~1980년 평화봉사단 41기 소속 단원으로 경북 예천, 대구에서 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0313155633797/200/fok000993-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000926-00000",
+                        "title": "평화봉사단 46기 사진",
+                        "description": "1978년 미국 로스앤젤레스 대한민국 영사관에서 평화봉사단 46기 단원들이 선서하고 있는 모습을 찍은 흑백 사진. 2점.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0312130432276/200/fok000926-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000927-00000",
+                        "title": "평화봉사단 46기 소개 책자",
+                        "description": "1978년 평화봉사단에서 발행된 46기(K-46) 단원을 소개하는 책자. 총 28쪽. 양장본. 앞표지에 &amp;#39;K-46 TEFL/SPECIAL ED.&amp;#39;, &amp;#39;SUMMER&amp;#39;78&amp;#39; 등이 인쇄됨. 본문은 평화봉사단원과 직원들의 소개 및 간략한 인적사항 등으로 구성됨. 17쪽에 평화봉사단원 캐서린 샤프스틴(Catherine Sharpsteen)의 사진과 간략한 인적사항이 있음. 캐슬린 샤프스틴은 1978~1980년 평화봉사단 46기 소속 단원으로 이화여자대학교에서 특수 교육 강사로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0312130432276/200/fok000927-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000930-00000",
+                        "title": "캐서린 샤프스틴이 보낸 편지",
+                        "description": "1980년 6월 10일 평화봉사단원 캐서린 샤프스틴(Catherine Sharpsteen)이 주한 평화봉사단장에게 보낸 편지. 복사본. 본문은 캐서린 샤프스틴이 주한 평화봉사단장에게 청각장애를 가진 아이를 돕기 위한 의료지원에 대해 조언을 구하는 내용임. 캐서린 샤프스틴은 1978~1980년 평화봉사단 46기 소속 단원으로 이화여자대학교에서 특수 교육 강사로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0312130432276/200/fok000930-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007615-00000",
+                        "title": "구본웅 작품 깨어진 충무로",
+                        "description": "1950년대 서산(西山) 구본웅(具本雄, 1906~1953)이 서울 충무로의 6&amp;middot;25전쟁 중 모습을 그린 작품. 액자 형태. 종이에 소묘(Drawing). 전쟁 중 폐허가 된 충무로 거리의 모습과 사람의 모습 등이 그려짐. 화면 우측 상단에 &amp;#39;깨어즌 충무로&amp;#39; 문구가 있음. 액자 뒷면에 &amp;#39;具本雄 스케치 「서울 忠武路」(6&amp;middot;25戰爭中)&amp;#39;, &amp;#39;韓國近代美術硏究所&amp;#39; 문구가 묵서되고, 걸 수 있도록 끈이 달려 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0116133108619/200/pur007615-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007951-00000",
+                        "title": "조선지질도 제14집",
+                        "description": "일제강점기 조선총독부 지질조사소(地質調査所)에서 한반도 일부 지역의 지질을 조사하여 제작한 지질도 제14집 재덕(裁德)&amp;middot;신복장(新福場)&amp;middot;고보(古堡)&amp;middot;올족리(㐚足里) 도폭(圖幅). 1932년(소화 7) 3월 31일 발행. 표지 2장, 본문 28장. 앞면 우측 가장자리가 스테이플러 심으로 고정되고, 천으로 덮인 형태. 앞표지에 제목과 발행처, 판권 내용 등이 인쇄됨. 앞표지 내면에 제1~13집의 조사 지역이 표시된 한반도 지도 등이 인쇄되고, 1장 앞면에 정오표가 붙어 있음. 본문은 재덕&amp;middot;신복장&amp;middot;고보&amp;middot;올족리 도폭(1:50,000)과 설명서, 각종 사진 등으로 구성됨. 뒤표지에 표지 내용이 영문으로 인쇄됨.\n조선지질도는 국내 부존자원 조사와 지질유산 보존의 기초 자료로, 현재까지 인용&amp;middot;활용됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0319090941915/200/pur007951-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 朝鮮地質圖 第十四輯, 재덕&amp;middot;신복장&amp;middot;고보&amp;middot;올족리 도폭",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007952-00000",
+                        "title": "조선지질도 제15집",
+                        "description": "일제강점기 조선총독부 지질조사소(地質調査所)에서 한반도 일부 지역의 지질을 조사하여 제작한 지질도 제15집 북진(北鎭)&amp;middot;우현진(牛峴鎭) 도폭(圖幅). 1933년(소화 8) 3월 28일 발행. 표지 2장, 본문 15장. 앞면 좌측 가장자리가 스테이플러 심으로 고정된 형태. 조선 총독부 기사(技師) 목야기길랑(木野崎吉郞)이 조사(調査)하고, 기수(技手) 산기관현(山崎寬顯)이 제도(製圖)함. 앞표지에 제목과 발행처 등이 인쇄됨. 앞표지 내면에는 제1~14집의 조사 지역이 표시된 한반도 지도가 인쇄되고, 홋카이도(北海道) 제국대학교 부속도서관 인지(印紙)가 붙어 있음. 1장 앞면에 정오표가 붙어 있음. 본문은 북진&amp;middot;우현진 도폭(1:50,000)과 지질도 단면, 대유동(大楡洞) 금산도(1:6,000), 설명서, 각종 사진 등으로 구성됨. 뒤표지 내면에 판권 정보와 제1~14집 목록이 인쇄되고, 뒤표지에 표지 내용이 영문으로 인쇄됨. \n조선지질도는 국내 부존자원 조사와 지질유산 보존의 기초 자료로, 현재까지 인용&amp;middot;활용됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0319090941915/200/pur007952-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 朝鮮地質圖 第十五輯, 북진&amp;middot;우현진 도폭",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007953-00000",
+                        "title": "조선지질도 제16집",
+                        "description": "일제강점기 조선총독부 지질조사소(地質調査所)에서 한반도 일부 지역의 지질을 조사하여 제작한 지질도 제16집 연진(蓮津)&amp;middot;청진(淸津) 도폭(圖幅). 1933년(소화 8) 8월 28일 발행. 표지 2장, 본문 16장. 앞면 좌측 가장자리가 스테이플러 심으로 고정된 형태. 조선총독부 기사(技師) 도촌신병위(島村新兵衛)가 조사(調査)하고, 기수(技手) 정삼등삼랑(井三藤三郞)이 제도(製圖)함. 앞표지에 제목과 발행처 등이 인쇄됨. 앞표지 내면에는 제1~15집의 조사 지역이 표시된 한반도 지도가 인쇄되고, 홋카이도(北海道) 제국대학교 부속도서관 인지(印紙)가 붙어 있음. 본문은 연진&amp;middot;청진 도폭(1:50,000)과 지질도 단면, 청진 지방 지질 및 광상(鑛床) 분포도(1:25,000), 설명서, 각종 사진 등으로 구성됨. 뒤표지 내면에 판권 정보와 제1~15집 목록이 인쇄되고, 뒤표지에 표지 내용이 영문으로 인쇄됨. \n조선지질도는 국내 부존자원 조사와 지질유산 보존의 기초 자료로, 현재까지 인용&amp;middot;활용됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0319090941915/200/pur007953-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 朝鮮地質圖 第十六輯, 연진&amp;middot;청진 도폭",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006679-00000",
+                        "title": "경공측전 실습 기념 사진",
+                        "description": "1944년 2월 15일 경공측전(京工測專) 학생들의 측량 실습 기념 흑백 사진. 앞면에 측량 기구를 들고 있는 학생들과 선생님의 모습이 인화되고, 하단에 &amp;#39;京工測專實習記念&amp;#39;, &amp;#39;19.2.15.&amp;#39; 문구가 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1023133008810/200/pur006679-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 京工測專 實習 記念",
+                        "extent": "",
+                        "identifier": ""
+                    }
+                ]
+            },
+            "numOfRows": 100,
+            "pageNo": 1,
+            "totalCount": 102803
+        }
+    }
+}

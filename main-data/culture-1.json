@@ -1,0 +1,157 @@
+{
+  "response": {
+    "header": {
+      "resultCode": 0,
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007019-00000",
+            "title": "수취자에서 대산을 바라보고 있는 일본군 사진",
+            "description": "러일전쟁(1904~1905) 중 수취자(水臭子)에서 요녕성(遼寧省) 대련시(大連市) 대산(大山)을 바라보며 행군하고 있는 일본 군인들의 모습을 촬영한 사진. 앞면 하단에 &amp;#39;水臭子ヨリ大山ヲ戰跡訪問 寒中行軍 23&amp;#39;, &amp;#39;二三&amp;#39; 문구가 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007019-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 水臭子ヨリ大山ヲ戰跡訪問 寒中行軍 23, 러일전쟁 일본군 사진",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007020-00000",
+            "title": "대산과 계자산의 능선을 지나고 있는 일본군 사진",
+            "description": "러일전쟁(1904~1905) 중 요녕성(遼寧省) 대련시(大連市) 대산(大山)과 계자산(桂子山)의 능선을 지나고 있는 일본 군인들의 모습을 촬영한 사진. 앞면 우측에 &amp;#39;戰跡訪問大山ト桂子山ノ鞍部 寒中行軍 24&amp;#39; 문구가 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007020-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 戰跡訪問大山ト桂子山ノ鞍部 寒中行軍 24, 러일전쟁 일본군 사진",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007021-00000",
+            "title": "대산의 능선에서 일본군 야포 10연대가 주둔하고 있는 사진",
+            "description": "러일전쟁(1904~1905) 중 요녕성(遼寧省) 대련시(大連市) 대산(大山) 능선에서 일본군 야포 10연대가 주둔하고 있는 모습을 촬영한 사진. 앞면 좌측 하단에 &amp;#39;日露戰ニ野砲十聯隊ノ苦戰ヒタル大山鞍部 寒中行軍 25&amp;#39; 문구가 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007021-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 日露戰ニ野砲十聯隊ノ苦戰ヒタル大山鞍部 寒中行軍 25, 러일전쟁 일본군 사진",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007022-00000",
+            "title": "대산 위에서 선배들을 조문하고 있는 일본군 사진",
+            "description": "러일전쟁(1904~1905) 중 요녕성(遼寧省) 대련시(大連市) 대산(大山) 능선에서 선배들을 조문하고 있는 일본 군인들의 모습을 촬영한 사진. 앞면 우측 하단에 &amp;#39;大山上ニ先輩ノ靈ヲ吊フ 寒中行軍 26&amp;#39;, &amp;#39;二六&amp;#39; 문구가 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007022-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 大山上ニ先輩ノ靈ヲ吊フ 寒中行軍 26, 러일전쟁 일본군 사진",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007023-00000",
+            "title": "대산 능선에서 계자산을 바라보고 있는 일본군 사진",
+            "description": "러일전쟁(1904~1905) 중 요녕성(遼寧省) 대련시(大連市) 대산(大山) 능선에서 계자산(桂子山)을 바라보고 있는 일본 군인들의 모습을 촬영한 사진. 앞면 우측 하단에 &amp;#39;大山鞍部ヨリ桂子山ヲ望ム戰跡訪問 寒中行軍 27&amp;#39; 문구가 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203132839144/200/pur007023-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 大山鞍部ヨリ桂子山ヲ望ム戰跡訪問 寒中行軍 27, 러일전쟁 일본군 사진",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007216-00000",
+            "title": "LA 세계문제평의회에서 연설 중인 김용식 대사 사진",
+            "description": "1970년대 미국 로스앤젤레스(Los Angeles) 세계문제평의회(World Affairs Council)에서 연설 중인 주미 대사 김용식(金溶植)을 촬영한 사진. 뒷면에 &amp;#39;12&amp;#39;가 수기됨.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007216-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 김용식 외무부 장관 관련 자료",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007212-00000",
+            "title": "집무실에서의 김용식 대사 사진",
+            "description": "1960년대 집무실에서 주유엔 대사 김용식(金溶植)을 촬영한 사진. 3점으로, 동일한 사진임.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007212-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 김용식 외무부 장관 관련 자료",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007217-00000",
+            "title": "김용식 주미 대사와 문덕주 주유엔 대사 사진",
+            "description": "1970년대 주미 대사 김용식(金溶植)과 주유엔 대사 문덕주(文德周)를 촬영한 사진으로, 2점임.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007217-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 김용식 외무부 장관 관련 자료",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007223-00000",
+            "title": "만찬 참석자들과 악수하는 김용식 장관 사진",
+            "description": "1972년 3월 인도네시아에서 외무부 장관 김용식(金溶植)이 만찬 참석자들과 악수하는 모습을 촬영한 사진. 4점. 뒷면에 군데군데 &amp;#39;Agfa&amp;#39;가 스탬프로 찍혀 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007223-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 김용식 외무부 장관 관련 자료",
+            "extent": "",
+            "identifier": ""
+          },
+          {
+            "publisher": 1371480,
+            "creator": "홈페이지",
+            "collectionDb": "소장자료",
+            "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007219-00000",
+            "title": "인도네시아 아담 말릭 외무부 장관이 김용식 장관을 환대하는 사진",
+            "description": "1972년 3월 인도네시아에 있는 공항에서 인도네시아 외무부 장관 아담 말릭(Adam Malik)이 외무부 장관 김용식(金溶植)을 환대하는 모습을 촬영한 사진. 6점. (6-1)은 뒷면에 &amp;#39;PHOTO SERVICE DEPLU&amp;#39; 등이 스탬프로 찍혀 있음.",
+            "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007219-00000-00001.jpg",
+            "spatialCoverage": "한국",
+            "temporal": "",
+            "alternativeTitle": "null 김용식 외무부 장관 관련 자료",
+            "extent": "",
+            "identifier": ""
+          }
+        ]
+      },
+      "numOfRows": 100,
+      "pageNo": 1,
+      "totalCount": 102803
+    }
+  }
+}

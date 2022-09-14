@@ -1,0 +1,157 @@
+{
+    "response": {
+        "header": {
+            "resultCode": 0,
+            "resultMsg": "OK"
+        },
+        "body": {
+            "items": {
+                "item": [
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007940-00000",
+                        "title": "조선지질도 제3집",
+                        "description": "일제강점기 조선총독부 지질조사소(地質調査所)에서 한반도 일부 지역의 지질을 조사하여 제작한 지질도 제3집 하응봉(下鷹峯)&amp;middot;길주(吉州)&amp;middot;사포(泗浦)&amp;middot;임명(臨溟) 도폭(圖幅). 1925년(대정 14) 3월 31일 발행. 표지 2장, 본문 18장. 앞면 우측 가장자리가 스테이플러 심으로 고정되고, 천으로 덮인 형태. 조선총독부 기사(技師) 산성불이마(山成不二麿)가 조사(調査)하고, 고원(雇員) 금강의강(金剛義江)이 제도(製圖)함. 앞표지에 제목과 발행처 등이 인쇄됨. 앞표지 내면에 목차가 있고, 검사표(檢査表)가 붙어 있음. 본문은 하응봉&amp;middot;길주&amp;middot;사포&amp;middot;임명 도폭(1:50,000)과 설명서, 각종 사진 등으로 구성됨. 뒤표지 내면에 판권 정보가 인쇄됨.\n조선지질도는 국내 부존자원 조사와 지질유산 보존의 기초 자료로, 현재까지 인용&amp;middot;활용됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0319090941915/200/pur007940-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 朝鮮地質圖 第三輯, 하응봉&amp;middot;길주&amp;middot;사포&amp;middot;임명 도폭",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007941-00000",
+                        "title": "조선지질도 제4집",
+                        "description": "일제강점기 조선총독부 지질조사소(地質調査所)에서 한반도 일부 지역의 지질을 조사하여 제작한 지질도 제4집 극동(極洞)&amp;middot;명천(明川)&amp;middot;칠보산(七寶山)&amp;middot;고참동(古站洞) 도폭(圖幅). 1925년(대정 14) 3월 31일 발행. 표지 2장, 본문 16장. 앞면 우측 가장자리가 스테이플러 심으로 고정되고, 천으로 덮인 형태. 조선총독부 기사(技師) 입암암(立岩巖)이 조사(調査)하고, 고원(雇員) 금강의강(金剛義江)이 제도(製圖)함. 앞표지에 제목과 발행처 등이 인쇄됨. 앞표지 내면에 목차가 있고, 정오표와 홋카이도(北海道) 제국대학교 부속도서관 인지(印紙)가 붙어 있음. 본문은 극동&amp;middot;명천&amp;middot;칠보산&amp;middot;고참동 도폭(1:50,000)과 지질단면도, 설명서, 각종 사진 등으로 구성됨. 뒤표지 내면에 판권 정보가, 뒤표지에 &amp;#39;EXPLANATION OF GEOLOGY by Iwao Tateiwa&amp;#39; 문구가 인쇄됨.\n조선지질도는 국내 부존자원 조사와 지질유산 보존의 기초 자료로, 현재까지 인용&amp;middot;활용됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0319090941915/200/pur007941-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 朝鮮地質圖 第四輯, 극동&amp;middot;명천&amp;middot;칠보산&amp;middot;고참동 도폭",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007942-00000",
+                        "title": "조선지질도 제5집",
+                        "description": "일제강점기 조선총독부 지질조사소(地質調査所)에서 한반도 일부 지역의 지질을 조사하여 제작한 지질도 제5집 진안(眞安)&amp;middot;전주(全州) 도폭(圖幅). 1926년(대정 15) 3월 31일 발행. 표지 2장, 본문 9장. 앞면 우측 가장자리가 스테이플러 심으로 고정되고, 천으로 덮인 형태. 조선총독부 기사(技師) 도촌신병위(島村新兵衛)가 조사(調査)하고, 기수(技手) 중산죽삼랑(仲山竹三郞)이 제도(製圖)함. 앞표지에 제목과 발행처, 판권 내용 등이 인쇄됨. 앞표지 내면에는 정오표와 홋카이도(北海道) 제국대학 부속도서관 인지(印紙)가 붙어 있음. 본문은 진안&amp;middot;전주 도폭(1:50,000)과 부도(附圖), 설명서, 각종 사진 등으로 구성됨. 뒤표지에 표지 내용이 영문으로 인쇄됨.\n조선지질도는 국내 부존자원 조사와 지질유산 보존의 기초 자료로, 현재까지 인용&amp;middot;활용됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2019/0319090941915/200/pur007942-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 朝鮮地質圖 第五輯, 진안&amp;middot;전주 도폭",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006707-00000",
+                        "title": "사우디아라비아에서 근무하는 유경상이 받은 우편 봉투",
+                        "description": "1981년 사우디아라비아 리야드(Riyadh)에 파견된 한양주택개발(Han Yang Corporation) 노동자 유경상이 한국에서 받은 우편 봉투. 2점. 항공 우편 봉투 앞면에 대한민국 우표가 부착되고, 신당 우체국 소인이 찍혀 있음. 수신인&amp;middot;발신인 이름과 주소가 수기됨. (2-1)은 1981년 11월 24일 서울시 중구 신당동 유승환에게 받은 우편 봉투. 앞면 우측에 &amp;#39;No.1&amp;#39; 문구가 수기됨. 뒷면 좌측 하단에 리야드 우체국 및 다란(Dhahran) 우체국 소인이 찍혀 있음. (2-2)는 1981년 11월 30일 서울시 중구 신당동 김현정에게 받은 우편 봉투. 앞면 우측에 &amp;#39;No.3&amp;#39; 문구가 수기됨.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1023133008810/200/pur006707-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 중동 파견 노동자 편지",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006736-00000",
+                        "title": "손을 맞잡고 서 있는 여인들 사진",
+                        "description": "마주 본 채 손을 잡고 서 있는 두 여인이 정면의 카메라를 응시하는 모습을 촬영한 사진.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1115170720249/200/pur006736-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006743-00000",
+                        "title": "어린아이와 여인 사진",
+                        "description": "의자 팔걸이에 앉은 어린아이와 한복을 입은 여인의 모습이 촬영된 사진. 한 손에 인형을 들고 앉아 있는 어린아이를 여인이 받쳐 잡은 모습이 담김. 여인은 노리개를 달고, 저고리에 주름치마, 양말과 구두 차림임.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1115170720249/200/pur006743-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006729-00000",
+                        "title": "정자의 출생부터 국민학생까지의 사진첩",
+                        "description": "1937년(소화 12) 3월 10일 출생한 정자(定子)의 국민학생까지 성장한 모습이 담긴 사진첩. 표지 2장, 내지 28장, 사진 총 93점. 내지 앞면 좌측 가장자리에 구멍을 뚫고 스프링으로 고정한 형태로, 양장본임. 앞표지에는 &amp;#39;PHOTO ALBUM&amp;#39; 문구가 압인되고, 앞 면지에 &amp;#39;定子 出生(昭和十二年三月十日)より國民學校入學前まで&amp;#39; 문구 등이 수기됨. 내지와 뒤표지에 사진이 1~6장이 부착되고, 여러 군데 사진 제목과 촬영일 등이 수기됨. 내용은 정자의 일상생활 모습으로 구성됨. 28장 뒷면 상단 단체 사진의 인화면에 &amp;#39;華溪寺을 차저서 1948.4.23.&amp;#39; 문구가 있고, 하단 좌측 단체 사진에는 &amp;#39;六學年  단기4282년 1월 1일&amp;#39;, 우측 단독사진에는 &amp;#39;입학사진&amp;#39; 문구가 수기되어 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1203104719185/200/pur006729-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006730-00000",
+                        "title": "이쓰쿠시마신사 오토리 앞 배 위에서 찍은 여학생들 기념사진",
+                        "description": "1929년 일본 히로시마(広島)의 미야지마(宮島)에 있는 이쓰쿠시마신사(厳島神社) 오토리(大鳥居)를 배경으로 나룻배 위의 여학생들을 촬영한 기념사진. 한복 치마와 저고리로 이루어진 교복을 입은 여학생들이 나룻배 위에 서거나 앉아 있는 모습이 담김. 상단에 &amp;#39;1929. 嚴島にて&amp;#39; 문구가 적혀 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1115170720249/200/pur006730-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006731-00000",
+                        "title": "들판 위의 여학생들 사진",
+                        "description": "1936년 3월 15일 봄 들판 위에 누워 있는 교복 차림의 두 여학생을 촬영한 사진. 두 여학생이 소나무를 배경으로 들판에 누워 있는 모습이 담김. &amp;#39;朗らかて歌へ若人よ春の野て&amp;#39;와 &amp;#39;1936.3.15.&amp;#39; 문구가 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1115170720249/200/pur006731-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-006807-00000",
+                        "title": "미 육군 참모장 James N. Ellis 소장이 박세직 장관에게 보낸 편지와 주한 미 지역공동체&amp;middot;가정&amp;middot;군인 지원사령부 사령관 Ernest L. Isbell 대령의 명함",
+                        "description": "1986년 3월 18일 미 육군 참모장 제임스 엘리스(James N. Ellis) 소장이 체육부 장관 박세직(朴世直)에게 보낸 편지와 지역사회 군인가족 지원사령부 사령관 어네스트 이즈벨(Ernest L. Isbell) 대령의 명함. 편지와 봉투 및 명함으로 구성됨. (4-1,2)는 편지. 앞면에 미국 국방부 문장(紋章), 제임스 엘리스가 박세직에게 어네스트 이즈벨(Ernest L. Isbell) 대령을 소개하는 내용과 서울에서 개최되는 아시아경기대회 및 올림픽경기대회 홍보를 지원하겠다는 내용 등이 한글 및 영문으로 인쇄되고, 제임스 엘리스의 서명 및 &amp;#39;답신&amp;#39;이 수기됨. (4-3)은 명함. 앞면에 지역사회 군인가족 지원사령부 문장(紋章), 어네스트 이즈벨의 이름, 전화번호 등이 인쇄됨. 뒷면에 앞면의 내용이 한글로 번역됨. (4-4)는 봉투. 앞면에 보내는 사람, 받는 사람의 이름, 직위가 수기되고, 메모가 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur006/2018/1102091348791/200/pur006807-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 박세직 체육부 장관 관련 자료",
+                        "extent": "",
+                        "identifier": ""
+                    }
+                ]
+            },
+            "numOfRows": 100,
+            "pageNo": 1,
+            "totalCount": 102803
+        }
+    }
+}

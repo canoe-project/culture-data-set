@@ -1,0 +1,157 @@
+{
+    "response": {
+        "header": {
+            "resultCode": 0,
+            "resultMsg": "OK"
+        },
+        "body": {
+            "items": {
+                "item": [
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007016-00000",
+                        "title": "빙판을 건너 대산으로 향하는 일본군 사진",
+                        "description": "러일전쟁(1904~1905) 중 요녕성(遼寧省) 대련시(大連市) 대산(大山)의 빙판을 건너는 일본 군인들의 모습을 촬영한 사진. 앞면 하단에 &amp;#39;大山ニ向テ急進ノ氷上渡河 寒中行軍 20&amp;#39;, &amp;#39;二○&amp;#39; 문구가 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203132809216/200/pur007016-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 大山ニ向テ急進ノ氷上渡河 寒中行軍 20, 러일전쟁 일본군 사진",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007015-00000",
+                        "title": "왕가보자 러시아군 막사 안에 있는 일본군 사진",
+                        "description": "러일전쟁(1904~1905) 중 요녕성(遼寧省) 단동시(丹東市) 왕가보자(王家堡子) 러시아군 막사 안에 있는 일본 군인들의 모습을 촬영한 사진. 앞면 하단에 &amp;#39;王家堡子ニ露営ノ幕舎內 寒中行軍 18&amp;#39;, &amp;#39;十○&amp;#39; 문구가 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007015-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 王家堡子ニ露営ノ幕舎內 寒中行軍 18, 러일전쟁 일본군 사진",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025008-007017-00000",
+                        "title": "중국 마을을 지나가고 있는 일본군 사진",
+                        "description": "러일전쟁(1904~1905) 중 중국 마을을 지나가고 있는 일본 군인들의 모습을 촬영한 사진. 앞면 하단에 &amp;#39;戰跡訪問支那部落通過 寒中行軍 21&amp;#39;, &amp;#39;二一&amp;#39; 문구가 있음.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/pur007/2018/1203104719185/200/pur007017-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "null 戰跡訪問支那部落通過 寒中行軍 21, 러일전쟁 일본군 사진",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000904-00000",
+                        "title": "평화봉사단 30기 사진",
+                        "description": "평화봉사단 30기 단원이 모여 찍은 흑백사진. 사진 뒷면에 나무 프레임(frame)이 덧대어진 형태. 사진에는 야외에서 평화봉사단원들이 다함께 서있는 모습이 담김. 자료를 기증한 안나 로마노(Anna Romano)는 평화봉사단 30기(K-30) 소속으로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0313095031843/200/fok000904-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000905-00000",
+                        "title": "평화봉사단 30기 대학 테솔(TESOL)프로그램 소개 책자",
+                        "description": "1974년 2월에 발행한 k-30기 대학 테솔 소개 책자. 양장본. 앞표지에 돌하르방 및 &amp;lsquo;k-30 university tesol&amp;lsquo;이 인쇄됨. 본문은 테솔 교육을 하는 평화봉사단원에 대한 간략한 인적사항 등으로 구성됨. 자료를 기증한 안나 로마노(Anna Romano)는 평화봉사단 30기(K-30) 소속으로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0313095031843/200/fok000905-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-001004-00000",
+                        "title": "1980년 서울 전경 사진",
+                        "description": "1977~1980년에 제라드 앤서니 크리직(Gerard Anthony Krzic)이 평화봉사단으로 내한 당시, 1980년 서울의 모습이 담긴 디지털 파일. 총 13점. (13-1~3, 6, 8)은 광화문 일대, (13-4)는 시청 광장 전경, (13-5, 9~12)는 서울의 거리, (13-7)은 유리장에 진열된 한복 입은 인형, (13-13)은 종각의 전경을 찍음. 제라드 앤서니 크리직은 1977~1980년 평화봉사단 41기 소속 단원으로 경북 예천, 대구에서 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok001/2018/0313155633797/200/fok001004-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-001005-00000",
+                        "title": "서예 전시회장 사진",
+                        "description": "1977~1980년에 평화봉사단원 제라드 앤서니 크리직(Gerard A. Krzic)이 참가한 서예 전시회장의 모습이 담긴 디지털 파일. 제라드 앤서니 크리직은 1977~1980년 평화봉사단 41기 소속 단원으로 경북 예천, 대구에서 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok001/2018/0313155633797/200/fok001005-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000891-00000",
+                        "title": "테리 퀄스가 폴 미첼에게 보내는 편지",
+                        "description": "1972년 2월 26일 평화봉사단원인 테리 퀄스(Terry Quarles)가 전라북도 완주군에서 미국 뉴욕의 폴 미첼(Paul Mitchell)에게 보낸 편지. 항공서간(航空書簡)으로, 1장의 종이를 접어 붙여 편지지와 봉투를 겸한 봉함엽서의 형태임. 앞면 주소란에는 수신인 폴 미첼의 영문 주소가 수기됨. 주소가 적힌 우측에는 대한민국 우편이 부착되고, 소인 두 개가 찍힘. 편지의 내용은 테리 퀼스가 경험하는 한국의 생활과 감정 등이 영문 필기체로 수기됨. 테리퀄스(Terry Quarles)는 1970년대 평화봉사단원으로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0313095031843/200/fok000891-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000892-00000",
+                        "title": "테리 퀄스가 폴 미첼에게 보내는 편지",
+                        "description": "1972년 2월 27일 평화봉사단원인 테리 퀄스(Terry Quarles)가 전라북도 완주군에서 미국 뉴욕의 폴 미첼(Paul Mitchell)에게 보낸 편지. 항공서간(航空書簡)으로, 1장의 종이를 접어 붙여 편지지와 봉투를 겸한 봉함엽서의 형태임. 앞면 주소란에는 수신인 폴 미첼의 영문 주소가 수기됨. 주소가 적힌 우측에는 대한민국 우편이 부착되고, 소인 한 개가 찍힘. 편지의 내용은 한국에서의 생활 및 폴 미첼의 영국 여행에 관한 질문이 영문 필기체로 수기됨. 테리퀄스(Terry Quarles)는 1970년대 평화봉사단원으로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0319103850253/200/fok000892-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    },
+                    {
+                        "publisher": 1371480,
+                        "creator": "홈페이지",
+                        "collectionDb": "소장자료",
+                        "url": "http://www.much.go.kr/museum/nrms/view.do?idnbr=PS01002025007-000893-00000",
+                        "title": "테리 퀄스가 폴 미첼에게 보내는 편지",
+                        "description": "1972년 4월 25일 평화봉사단원인 테리 퀄스(Terry Quarles)가 전라북도 완주군에서 미국 켄터키 주의 폴 미첼(Paul Mitchell)에게 보낸 편지. 항공서간(航空書簡)으로, 1장의 종이를 접어 붙여 편지지와 봉투를 겸한 봉함엽서의 형태임. 앞면 주소란에는 수신인 폴 미첼의 영문 주소가 수기됨. 주소가 적힌 우측 상단에는 대한민국 우편이 부착되고, 소인 두 개가 찍힘. 뒷면 본문에는 테리 퀄스의 한국 생활과 폴 미첼의 안부를 묻는 내용이 영문 필기체로 수기됨. 테리퀄스(Terry Quarles)는 1970년대 평화봉사단원으로 활동함.",
+                        "referenceIdentifier": "http://archive.much.go.kr/nrms/fok000/2018/0313095031843/200/fok000893-00000-00001.jpg",
+                        "spatialCoverage": "한국",
+                        "temporal": "",
+                        "alternativeTitle": "",
+                        "extent": "",
+                        "identifier": ""
+                    }
+                ]
+            },
+            "numOfRows": 100,
+            "pageNo": 1,
+            "totalCount": 102803
+        }
+    }
+}
